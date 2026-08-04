@@ -1,48 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Kamrun%20Nesa&fontSize=45&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://raw.githubusercontent.com/KAMRUN-NESA/KAMRUN-NESA/main/banner.png" width="100%"/>
 
-# AI/ML Researcher | Graph Neural Network Researcher | Deep Learning Enthusiast
-
-<p align="center">
-<a href="mailto:nesakamrun490@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kamrun-nesa-363a9524b">
-<img src="https://img.shields.io/badge/LinkedIn-Kamrun%20Nesa-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KAMRUN-NESA">
-<img src="https://img.shields.io/badge/GitHub-KAMRUN--NESA-black?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=KAMRUN-NESA&style=for-the-badge&color=blue"/>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-nesakamrun490@gmail.com-2C3E50?style=flat-square&logo=gmail&logoColor=white)](mailto:nesakamrun490@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamrun%20Nesa-2C3E50?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrun-nesa-363a9524b)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Kamrun%20Nesa-2C3E50?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Kamrun-Nesa)
+[![GitHub](https://img.shields.io/badge/GitHub-KAMRUN--NESA-2C3E50?style=flat-square&logo=github&logoColor=white)](https://github.com/KAMRUN-NESA)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## About
 
-I am a Computer Science & Engineering graduate from the International Islamic University Chittagong (IIUC), passionate about Artificial Intelligence, Machine Learning, and Graph Neural Networks.
+Computer Science and Engineering graduate from the International Islamic University Chittagong (IIUC) with research interests in Artificial Intelligence, Machine Learning, Graph Neural Networks, Educational Data Mining, Healthcare AI, and Agentic AI Systems.
 
-My research focuses on developing intelligent, explainable, and robust AI systems for real-world applications, particularly in Educational Data Mining, Healthcare AI, Deep Learning, and Graph Representation Learning.
+My work focuses on developing explainable, robust, and scalable AI solutions through graph representation learning, deep learning, ensemble learning, and predictive analytics. I am particularly interested in translating research innovations into practical intelligent systems with real-world impact.
 
-I have experience in machine learning research, predictive modeling, ensemble learning, graph neural networks, and AI-driven system development. My goal is to contribute to impactful AI research that bridges theoretical innovation and practical deployment.
-
-### Currently
-
-- 🎓 Teaching Assistant at IIUC
-- 💻 Software Engineer at Diligite
-- 🔬 AI/ML & GNN Researcher
-- 🌍 Campus Ambassador (ICRCS, IG Education, ICSC)
+Currently serving as a Teaching Assistant at IIUC and working as a Software Engineer at Diligite.
 
 ---
 
-# 🔬 Research Interests
+## Research Interests
 
 - Graph Neural Networks (GNN)
 - Hypergraph Neural Networks (HGNN)
@@ -51,16 +30,14 @@ I have experience in machine learning research, predictive modeling, ensemble le
 - Healthcare AI
 - Explainable AI (XAI)
 - Ensemble Learning
+- Transfer Learning
 - Computer Vision
 - Agentic AI Systems
 - Large Language Models (LLMs)
-- Predictive Analytics
 
 ---
 
-# 🎓 Research
-
-## B.Sc. Thesis
+## Thesis
 
 ### Adaptive Framelet-Based Dual Hypergraph Neural Network with Dynamic Channel Pruning for Class-Imbalanced Student Performance Prediction
 
@@ -69,47 +46,27 @@ Research Areas:
 - Hypergraph Neural Networks
 - Graph Representation Learning
 - Dynamic Channel Pruning
-- Attention Mechanisms
 - APPNP Propagation
 - GraphMixup
+- Attention Mechanisms
 - Educational Data Mining
 - Class Imbalance Learning
 
 ---
 
-# 📚 Publications
+## Publications
 
-### International Conference Publications
-
-📄 Early Diabetes Prediction using Robust Ensemble Learning Framework
-
-📄 Adaptive Hypergraph Neural Network Framework for Student Performance Prediction
-
-📄 Explainable Deep Learning Framework for Bone Tumor Severity Indexing
-
-📄 Additional AI & Machine Learning Research Works Presented at International Conferences
+| Paper | Venue |
+|---------|---------|
+| [Advanced Machine Learning Approaches for Accurate Sugarcane Yield Prediction with Ensemble Techniques](https://www.researchgate.net/publication/392214849_Advanced_Machine_Learning_Approaches_for_Accurate_Sugarcane_Yield_Prediction_with_Ensemble_Techniques) | IEEE ECCE 2025 |
+| [A Leakage-Aware Two-Stage XGBoost Framework for Early Detection and Clinical Staging of Chronic Kidney Disease](https://www.researchgate.net/publication/406969993_A_Leakage-Aware_Two-Stage_XGBoost_Framework_for_Early_Detection_and_Clinical_Staging_of_Chronic_Kidney_Disease) | IEEE QPAIN 2026 |
+| [A Robust Ensemble-Based Framework for Facial Emotion Recognition Using Transfer Learning and Test-Time Augmentation](https://www.researchgate.net/publication/406970439_A_Robust_Ensemble-Based_Framework_for_Facial_Emotion_Recognition_Using_Transfer_Learning_and_Test-Time_Augmentation) | IEEE QPAIN 2026 |
 
 ---
 
-# 🏆 Achievements
+## Professional Experience
 
-🥇 Champion — IIUC Intra University Datathon 2026
-
-👩‍💻 Best Female Team Award — IIUC Datathon 2026
-
-🏅 Best Paper Award
-
-📑 Multiple International Conference Publications
-
-🎤 Research Presenter at International Conferences
-
-🏆 Competitive Programming & Research Community Contributor
-
----
-
-# 💼 Experience
-
-## 💻 Software Engineer | Diligite
+### Software Engineer | Diligite
 
 **June 2026 – Present**
 
@@ -119,127 +76,91 @@ Research Areas:
 - Web Application Development
 - Software Engineering
 
----
-
-## 🎓 Teaching Assistant | International Islamic University Chittagong (IIUC)
+### Teaching Assistant | International Islamic University Chittagong (IIUC)
 
 **2025 – Present**
 
-Assisting undergraduate students in:
+Supporting undergraduate students in:
 
 - Programming
 - Machine Learning
 - Data Mining
-- Technical Writing
 - Academic Research
+- Technical Writing
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| CareerMatch AI | AI-powered career recommendation platform |
-| Diabetes Prediction Framework | Robust ensemble machine learning framework |
-| Student Performance Prediction | Hypergraph Neural Network-based prediction framework |
-| Smart Waste Management System | Smart waste monitoring and management solution |
-| Hospital Management System | PHP & MySQL-based management system |
-| Smart Dustbin | Arduino-based smart automation project |
+| [Customer Retention Prediction](https://github.com/KAMRUN-NESA/customer-retention-prediction-) | Machine learning framework for customer churn and retention prediction using predictive analytics techniques. |
+| [EDUPORT](https://github.com/KAMRUN-NESA/EDUPORT-github) | Educational platform designed to improve learning management and student engagement. |
+| [Chat Application](https://github.com/KAMRUN-NESA/CHATT-APPS) | Real-time communication platform with interactive messaging features. |
+| [Hospital Management System](https://github.com/KAMRUN-NESA/HMS-project) | PHP and MySQL based hospital management solution. |
+| [Travell](https://github.com/KAMRUN-NESA/Travell) | Travel and tourism management platform with user-friendly interface. |
+| [Tic Tac Toe](https://github.com/KAMRUN-NESA/tic-tac-toe) | Interactive implementation of the classic Tic Tac Toe game. |
 
 ---
 
-# ⚡ Technical Skills
+## Technical Skills
 
-## Programming Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,php,mysql" />
-</p>
+```text
+Python • C++ • PHP • SQL
+```
 
----
+### Artificial Intelligence & Machine Learning
 
-## Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- Ensemble Learning
-- Predictive Modeling
-- Feature Engineering
-- Model Evaluation
-
-### Deep Learning
-
-- PyTorch
-- TensorFlow
-- Keras
-- CNN
-- Transfer Learning
+```text
+PyTorch • TensorFlow • Scikit-Learn • XGBoost • SHAP • Pandas • NumPy
+```
 
 ### Graph Learning
 
-- Graph Neural Networks (GNN)
-- Hypergraph Neural Networks (HGNN)
-- Graph Representation Learning
-- APPNP
-- GraphMixup
-- PyTorch Geometric
+```text
+Graph Neural Networks (GNN)
+Hypergraph Neural Networks (HGNN)
+Graph Representation Learning
+APPNP
+GraphMixup
+PyTorch Geometric
+```
 
-### Explainable AI
+### Web Development
 
-- SHAP
-- LIME
-- Model Interpretability
-- Feature Attribution Analysis
+```text
+HTML • CSS • Bootstrap • Laravel • PHP • MySQL
+```
 
----
+### Tools
 
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,laravel" />
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-- MySQL
-- SQL Query Optimization
-- Database Design
+```text
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab • LaTeX • MATLAB
+```
 
 ---
 
-## Tools & Platforms
+## Achievements
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-- Jupyter Notebook
-- Google Colab
-- MATLAB
-- Arduino IDE
-- LaTeX
+- Champion — IIUC Intra University Datathon 2026
+- Best Female Team Award
+- Best Paper Award
+- Multiple IEEE Conference Publications
+- Research Presenter at International Conferences
+- Campus Ambassador — ICRCS
+- Campus Ambassador — International Computer Science Competition
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAMRUN-NESA&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KAMRUN-NESA&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=KAMRUN-NESA&theme=tokyonight"/>
 
 </p>
 
@@ -249,66 +170,33 @@ Assisting undergraduate students in:
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMRUN-NESA&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KAMRUN-NESA&theme=github-dark"/>
 
 </p>
 
 ---
 
-# 🌍 Leadership & Community Activities
+## Education
 
-- Teaching Assistant, IIUC
-- Media & Content Secretary, IIUCFCPS
-- Assistant Contest Secretary, IIUCFCPS
-- Campus Ambassador, ICRCS
-- Campus Ambassador, IG Education Bangladesh
-- Campus Ambassador, International Computer Science Competition
-- Volunteer & Contributor in Academic and Research Events
+### Bachelor of Science in Computer Science and Engineering
+
+**International Islamic University Chittagong (IIUC)**
+
+2022 – 2026
 
 ---
 
-# 🎓 Education
+## Contact
 
-## Bachelor of Science (B.Sc.)
-
-### Computer Science & Engineering
-
-🏛 International Islamic University Chittagong (IIUC)
-
-📅 2022 – 2026
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:nesakamrun490@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kamrun-nesa-363a9524b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/KAMRUN-NESA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+- Email: **nesakamrun490@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/kamrun-nesa-363a9524b**
+- ResearchGate: **https://www.researchgate.net/profile/Kamrun-Nesa**
+- GitHub: **https://github.com/KAMRUN-NESA**
 
 ---
 
 <div align="center">
 
-### ⭐ Building Explainable and Robust AI Systems through Machine Learning, Graph Neural Networks, and Intelligent Data Analytics
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
