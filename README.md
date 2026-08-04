@@ -13,11 +13,8 @@
 
 ## About
 
-Computer Science and Engineering graduate from the International Islamic University Chittagong (IIUC) with research interests in Artificial Intelligence, Machine Learning, Graph Neural Networks, Educational Data Mining, Healthcare AI, and Agentic AI Systems.
-
-My work focuses on developing explainable, robust, and scalable AI solutions through graph representation learning, deep learning, ensemble learning, and predictive analytics. I am particularly interested in translating research innovations into practical intelligent systems with real-world impact.
-
-Currently serving as a Teaching Assistant at IIUC and working as a Software Engineer at Diligite.
+Computer Science and Engineering graduate from the International Islamic University Chittagong (IIUC) with research interests in Artificial Intelligence, Machine Learning, Graph Neural Networks, Educational Data Mining, Healthcare AI, and Agentic AI Systems.My work focuses on developing explainable, robust, and scalable AI solutions through graph representation learning, deep learning, ensemble learning, and predictive analytics. I am particularly interested in translating research innovations into practical intelligent systems with real-world impact.
+Currently serving as a Teaching Assistant at IIUC.
 
 ---
 
